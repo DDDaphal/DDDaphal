@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diksha Daphal</h1>
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/108c04069522a50e0c763031307aad890b7257afed0bdb84560d919c865e4bf3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313835373539322f73637265656e73686f74732f333834383339362f6368617261637465722d747970696e672e676966">
+<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/108c04069522a50e0c763031307aad890b7257afed0bdb84560d919c865e4bf3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313835373539322f73637265656e73686f74732f333834383339362f6368617261637465722d747970696e672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshadaphal&label=Profile%20views&color=0e75b6&style=flat" alt="dikshadaphal" /> </p>
 
